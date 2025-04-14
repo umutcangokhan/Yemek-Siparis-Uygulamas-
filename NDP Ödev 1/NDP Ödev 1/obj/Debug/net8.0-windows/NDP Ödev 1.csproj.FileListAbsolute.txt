@@ -1,0 +1,16 @@
+C:\Users\Dell\source\repos\NDP Ödev 1\NDP Ödev 1\bin\Debug\net8.0-windows\NDP Ödev 1.exe
+C:\Users\Dell\source\repos\NDP Ödev 1\NDP Ödev 1\bin\Debug\net8.0-windows\NDP Ödev 1.deps.json
+C:\Users\Dell\source\repos\NDP Ödev 1\NDP Ödev 1\bin\Debug\net8.0-windows\NDP Ödev 1.runtimeconfig.json
+C:\Users\Dell\source\repos\NDP Ödev 1\NDP Ödev 1\bin\Debug\net8.0-windows\NDP Ödev 1.dll
+C:\Users\Dell\source\repos\NDP Ödev 1\NDP Ödev 1\bin\Debug\net8.0-windows\NDP Ödev 1.pdb
+C:\Users\Dell\source\repos\NDP Ödev 1\NDP Ödev 1\obj\Debug\net8.0-windows\NDP Ödev 1.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\NDP Ödev 1\NDP Ödev 1\obj\Debug\net8.0-windows\NDP Ödev 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\NDP Ödev 1\NDP Ödev 1\obj\Debug\net8.0-windows\NDP Ödev 1.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\NDP Ödev 1\NDP Ödev 1\obj\Debug\net8.0-windows\NDP Ödev 1.AssemblyInfo.cs
+C:\Users\Dell\source\repos\NDP Ödev 1\NDP Ödev 1\obj\Debug\net8.0-windows\NDP Ödev 1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\NDP Ödev 1\NDP Ödev 1\obj\Debug\net8.0-windows\NDP Ödev 1.dll
+C:\Users\Dell\source\repos\NDP Ödev 1\NDP Ödev 1\obj\Debug\net8.0-windows\refint\NDP Ödev 1.dll
+C:\Users\Dell\source\repos\NDP Ödev 1\NDP Ödev 1\obj\Debug\net8.0-windows\NDP Ödev 1.pdb
+C:\Users\Dell\source\repos\NDP Ödev 1\NDP Ödev 1\obj\Debug\net8.0-windows\NDP Ödev 1.genruntimeconfig.cache
+C:\Users\Dell\source\repos\NDP Ödev 1\NDP Ödev 1\obj\Debug\net8.0-windows\ref\NDP Ödev 1.dll
+C:\Users\Dell\source\repos\NDP Ödev 1\NDP Ödev 1\obj\Debug\net8.0-windows\NDP_Ödev_1.Form1.resources

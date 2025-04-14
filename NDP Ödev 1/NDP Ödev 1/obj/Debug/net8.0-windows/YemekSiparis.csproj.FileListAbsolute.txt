@@ -1,0 +1,17 @@
+C:\Users\Dell\Documents\GitHub\Restoran-Sipari--Uygulamas-\NDP Ödev 1\NDP Ödev 1\bin\Debug\net8.0-windows\YemekSiparis.exe
+C:\Users\Dell\Documents\GitHub\Restoran-Sipari--Uygulamas-\NDP Ödev 1\NDP Ödev 1\bin\Debug\net8.0-windows\YemekSiparis.deps.json
+C:\Users\Dell\Documents\GitHub\Restoran-Sipari--Uygulamas-\NDP Ödev 1\NDP Ödev 1\bin\Debug\net8.0-windows\YemekSiparis.runtimeconfig.json
+C:\Users\Dell\Documents\GitHub\Restoran-Sipari--Uygulamas-\NDP Ödev 1\NDP Ödev 1\bin\Debug\net8.0-windows\YemekSiparis.dll
+C:\Users\Dell\Documents\GitHub\Restoran-Sipari--Uygulamas-\NDP Ödev 1\NDP Ödev 1\bin\Debug\net8.0-windows\YemekSiparis.pdb
+C:\Users\Dell\Documents\GitHub\Restoran-Sipari--Uygulamas-\NDP Ödev 1\NDP Ödev 1\obj\Debug\net8.0-windows\NDP_Ödev_1.Form1.resources
+C:\Users\Dell\Documents\GitHub\Restoran-Sipari--Uygulamas-\NDP Ödev 1\NDP Ödev 1\obj\Debug\net8.0-windows\YemekSiparis.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\GitHub\Restoran-Sipari--Uygulamas-\NDP Ödev 1\NDP Ödev 1\obj\Debug\net8.0-windows\YemekSiparis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\GitHub\Restoran-Sipari--Uygulamas-\NDP Ödev 1\NDP Ödev 1\obj\Debug\net8.0-windows\YemekSiparis.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\GitHub\Restoran-Sipari--Uygulamas-\NDP Ödev 1\NDP Ödev 1\obj\Debug\net8.0-windows\YemekSiparis.AssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\Restoran-Sipari--Uygulamas-\NDP Ödev 1\NDP Ödev 1\obj\Debug\net8.0-windows\YemekSiparis.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\Restoran-Sipari--Uygulamas-\NDP Ödev 1\NDP Ödev 1\obj\Debug\net8.0-windows\YemekSiparis.sourcelink.json
+C:\Users\Dell\Documents\GitHub\Restoran-Sipari--Uygulamas-\NDP Ödev 1\NDP Ödev 1\obj\Debug\net8.0-windows\YemekSiparis.dll
+C:\Users\Dell\Documents\GitHub\Restoran-Sipari--Uygulamas-\NDP Ödev 1\NDP Ödev 1\obj\Debug\net8.0-windows\refint\YemekSiparis.dll
+C:\Users\Dell\Documents\GitHub\Restoran-Sipari--Uygulamas-\NDP Ödev 1\NDP Ödev 1\obj\Debug\net8.0-windows\YemekSiparis.pdb
+C:\Users\Dell\Documents\GitHub\Restoran-Sipari--Uygulamas-\NDP Ödev 1\NDP Ödev 1\obj\Debug\net8.0-windows\YemekSiparis.genruntimeconfig.cache
+C:\Users\Dell\Documents\GitHub\Restoran-Sipari--Uygulamas-\NDP Ödev 1\NDP Ödev 1\obj\Debug\net8.0-windows\ref\YemekSiparis.dll
